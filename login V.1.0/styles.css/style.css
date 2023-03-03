@@ -1,0 +1,41 @@
+body {
+    margin: 30;
+    padding: 30;
+    background: linear-gradient(20deg, #26c9c9, #021b88);
+    height: 70vh;
+}
+
+
+.login{
+    position: absolute;
+    top: 30%;
+    transform: translate(90%, -20%);
+    width: 400px;
+    background: rgb(235, 233, 233);
+    border-radius: 30px;
+} 
+.formulario{
+    position: absolute;
+    top: 30%;
+    transform: translate(90%, -20%);
+    width: 400px;
+    background: rgb(235, 233, 233);
+    border-radius: 30px;
+} 
+
+.recupera_con{
+    position: absolute;
+    top: 30%;
+    transform: translate(90%, -20%);
+    width: 400px;
+    background: rgb(235, 233, 233);
+    border-radius: 30px;
+
+}
+
+.formulario {
+    margin: 30;
+    padding: 30;
+    background: linear-gradient(20deg, #26c9c9, #021b88);
+    height: 70vh;
+}

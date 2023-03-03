@@ -1,0 +1,18 @@
+body {
+    margin: 30;
+    padding: 30;
+    background: linear-gradient(20deg, #26c9c9, #021b88);
+    height: 100vh;
+}
+
+.formulario{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: rgb(235, 233, 233);
+    border-radius: 10px;
+}
+
+
