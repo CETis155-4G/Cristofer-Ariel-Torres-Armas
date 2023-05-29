@@ -1,0 +1,29 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: rgb(0, 38, 255);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+body {
+    margin: 20;
+    padding: 30;
+    background: linear-gradient(90deg, hsl(0, 0%, 100%), #00fffffd);
+    height: 100vh;
+}
+div {
+    background-image: url('https://i.pinimg.com/736x/7e/c6/aa/7ec6aa8c61c66dfa4057173eb0799a36.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #3d0808;
+}
+h4{
+    font-size: 80%;
+}
+
+h5{
+    color: #001322fd;
+}
